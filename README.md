@@ -52,7 +52,7 @@
       <br>Rest
     </td>
     <td align="center" width="96">
-        <img src="http://www.w3.org/2000/svg" alt="icon" width="65" height="65" />
+        <img src="https://gifdb.com/images/file/telegram-logo-rocket-animation-ivw7z9gl6k87v2gq.gif" alt="icon" width="65" height="65" />
       <br>Telegram
     </td>
 </tr>
