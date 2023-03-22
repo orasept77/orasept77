@@ -7,21 +7,21 @@
   <img src="https://profile-counter.glitch.me/orasept77/count.svg" />
 </p>
 
+
 > Tools and technologies that I have worked with and am interested in
 
 <table align="center">
 
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
     </td>
     <td align="center" width="96">
       <a href="#vuejs">
@@ -87,17 +87,33 @@
       <br>redis
     </td>
 </tr>
+<tr>
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+ </tr>
+<tr>
      <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
      <td align="center"  width="96">
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
       <br>React js
@@ -107,19 +123,24 @@
       <br>Postgress
     </td>
       <td align="center" width="96">
-      <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-      <br>webpack
-    </td>
-      <td align="center" width="96">
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
         </a> 
       <br>Heroku
     </td>
+    <td align="center" width="96">
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <br>Mongo
     </td>
   </tr>
 
 </table>
 
+
+
+<br/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en" alt="JubayerRiyad" width="300" />
+</p>
+<br/>
 
 
