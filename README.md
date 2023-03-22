@@ -33,6 +33,10 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="icon" width="65" height="65" />
+      <br>Telegram
+    </td>
     <td align="center" width="96">
       <a href="#rust">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Rustacean-flat-happy.svg" width="48" height="48" alt="Vuejs" />
@@ -51,10 +55,7 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
     </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="icon" width="65" height="65" />
-      <br>Telegram
-    </td>
+ 
 </tr>
 
 
