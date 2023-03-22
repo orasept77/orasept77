@@ -14,10 +14,10 @@
 
   <tr>
      <td align="center" width="96">
-      <a href="#rust" >
-        <img src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      <a href="#C++" >
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="ubuntu" />
       </a>
-      <br>Rust
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -34,14 +34,14 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      <a href="#rust">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Rustacean-flat-happy.svg" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>Vue JS
+      <br>Rust
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
