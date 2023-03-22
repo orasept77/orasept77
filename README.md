@@ -6,6 +6,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/orasept77/count.svg" />
 </p>
+
+<blockquote>
+<p dir="auto">Tools and technologies that I have worked with and am interested in</p>
+</blockquote>
 <table align="center">
   <tbody><tr>
      <td align="center" width="96">
