@@ -15,7 +15,7 @@
   <tr>
      <td align="center" width="96">
       <a href="#rust" >
-        <img src="(https://seeklogo.com/vector-logo/273873/rust)" width="48" height="48" alt="ubuntu" />
+        <img src="https://seeklogo.com/vector-logo/273873/rust" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Rust
     </td>
