@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/orasept77/count.svg" />
 </p>
 
->Tools and technologies that I have worked with and am interested in:
+ >Tools and technologies that I have worked with and am interested in:
 
 <table align="center">
 
