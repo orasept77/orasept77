@@ -32,7 +32,7 @@
     </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="icon" width="65" height="65" />
-      <br>Telegram
+      <br>Telegram <3
     </td>
     <td align="center" width="96">
       <a href="#rust">
