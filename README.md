@@ -38,7 +38,7 @@
       <a href="#rust">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Rustacean-flat-happy.svg" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>Rust
+      <br>Rust 
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
