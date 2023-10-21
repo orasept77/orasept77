@@ -5,7 +5,9 @@
   <img src="https://profile-counter.glitch.me/orasept77/count.svg" />
 </p>
 <p align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40a1af922fb24d87ab206bdfb26853c35c1ec9d01fa0bf22a9fea30debb69f50/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f4064617769646f6c6b6f2e6769746875622e726561646d65"><img src="https://camo.githubusercontent.com/40a1af922fb24d87ab206bdfb26853c35c1ec9d01fa0bf22a9fea30debb69f50/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f4064617769646f6c6b6f2e6769746875622e726561646d65" width="200" data-canonical-src="https://count.getloli.com/get/@dawidolko.github.readme" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40a1af922fb24d87ab206bdfb26853c35c1ec9d01fa0bf22a9fea30debb69f50/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f4064617769646f6c6b6f2e6769746875622e726561646d65">
+Catgirl count<br>
+<img src="https://camo.githubusercontent.com/40a1af922fb24d87ab206bdfb26853c35c1ec9d01fa0bf22a9fea30debb69f50/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f4064617769646f6c6b6f2e6769746875622e726561646d65" width="200" data-canonical-src="https://count.getloli.com/get/@dawidolko.github.readme" style="max-width: 100%;"></a>
   </p>
 > Tools and technologies that I have worked with and am interested in:  
  
